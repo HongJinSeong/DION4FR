@@ -9,4 +9,4 @@
 * Unbuntu 22.04
 
 ## Model weights 
-* [U-RFRS weight](https://drive.google.com/file/d/11LSwkfrU13h-jd51v-Lu-U6zTr_iHHQt/view?usp=sharing)
+* [DION4FR weight](https://drive.google.com/file/d/11LSwkfrU13h-jd51v-Lu-U6zTr_iHHQt/view?usp=sharing)
