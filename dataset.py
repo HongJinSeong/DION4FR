@@ -159,12 +159,12 @@ class dataset_test4(Dataset):
         else:
             mask_img[:, :, i:i + self.inputsize2] = iner_img
 
-        # return img, iner_img, mask_img, splitext(basename(name))[0], name.replace('\\', '/').split('/')[-2]
-        return torch.rand((3,192,192)), torch.rand((3,192,192)), torch.rand((3,192,192)), '', ''
+        return img, iner_img, mask_img, splitext(basename(name))[0], name.replace('\\', '/').split('/')[-2]
+        # return torch.rand((3,192,192)), torch.rand((3,192,192)), torch.rand((3,192,192)), '', ''
 
     def __len__(self):
-        # return self.size
-        return 10000
+        return self.size
+        # return 10000
 
 class dataset_test3(Dataset):
     # prepare data for self-reconstruction,
