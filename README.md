@@ -9,4 +9,4 @@
 * Unbuntu 22.04
 
 ## Model weights 
-* [DION4FR weight](https://drive.google.com/file/d/11LSwkfrU13h-jd51v-Lu-U6zTr_iHHQt/view?usp=sharing)
+* [Enhanced U-transformer weight](https://drive.google.com/file/d/11LSwkfrU13h-jd51v-Lu-U6zTr_iHHQt/view?usp=sharing)
